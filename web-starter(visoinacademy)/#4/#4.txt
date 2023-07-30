@@ -1,0 +1,11 @@
+add direction to html tag for inheritance 
+and add rtl for right to left 
+#4 HTML -Color  & style on webpage 
+how to adding style or css cascading style sheet on html ? 
+method = 
+1. adding style property on html tag this is inline on tag 
+2. 
+how to find color ? 
+color have meaning chose best color for your project
+and search w3schools color name = and see color turturials 
+this is best for you / w3schools is like dictionary 

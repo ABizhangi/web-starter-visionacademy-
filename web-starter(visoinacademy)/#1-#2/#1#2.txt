@@ -1,0 +1,31 @@
+ol is order list 
+li is list items 
+فکنم استاد هرچیزی که لازم بود رو به ما اموزش داد ولی درصورتی که چیز هایکه پروژه لازم داره رو باید 
+خوودمون یاد بگیریم این طوری دیگه خود اموزی رو هم یاد میگیریم 
+dl is discription list 
+dd is description data 
+dt is discription title 
+ul li 
+ul is unorder list 
+and li is list items 
+list-style-type 
+1. disc 
+2. circle 
+3. square 
+4. none 
+this items have nested html list 
+like nested block 
+add this extention on google chrome = Remove css from website 
+make html basic structure and 
+1. meta description a
+2. titel 
+3. heading 
+4. font formatter = small / big / italic / 
+5. make line with hr 
+5. make break with br 
+7. superscript and subscription and to text or content 
+some this i added to this ; 
+1. bold tag b 
+2. strong tag strong 
+3. emphasize tag em 
+4. 

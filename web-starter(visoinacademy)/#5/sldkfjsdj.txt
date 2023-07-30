@@ -1,0 +1,20 @@
+operator and operand 
+assigment operator 
+
+// bmi = weight (kg) / (height (m) ** 2 )
+
+// < 18.5 underweight 
+// 18.5 between 24.9 normal 
+// > 25 overweight 
+
+// camera distance 5km 
+// time 10 minute 
+// speed ? 
+
+// speed limit night 60 km/h 
+// speed limit day 80 km/h 
+
+violation 
+
+// location vancouver , Dubai , California 
+// charge 15% - 80%

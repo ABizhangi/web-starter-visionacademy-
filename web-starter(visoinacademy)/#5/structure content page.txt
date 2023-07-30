@@ -1,0 +1,12 @@
+structure for content html or web page  
+
+you need to use this tag : 
+1. header 
+2. footer 
+3. main 
+4. section 
+5. article 
+6. nave 
+7. aside 
+
+main and body to html website 
